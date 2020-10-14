@@ -9,3 +9,8 @@ p {
 body {
   background-color:lightsalmon;
 }
+ul {
+  font-style: italic;
+  font: bold;
+  color: aqua;
+}
