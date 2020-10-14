@@ -1,4 +1,4 @@
-h1 {
+h1, h2, h3 {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   text-align: center;
   font-size: larger;
@@ -13,5 +13,13 @@ ul {
   font-style: italic;
   font: bold;
   color: aqua;
-  text-align: center
+  text-align: center;
+  font-size: larger;
+}
+img {
+  position: absolute;
+  bottom: 0;
+  right: 5;
+  left: 10;
+  border: 3px solid #73AD21;
 }
